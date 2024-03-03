@@ -11,4 +11,6 @@ CPU 由两大部分组成，分别是控制器和运算器。
  - 地址寄存器【AR】:用于存放CPU当前访问的内存单元地址；
  - 指令译码器：用于对获取的指令进行译码，产生该指令操作所需要的一系列微操作信号，以控制计算机各部件完成该指令。
 
+![image](https://github.com/anna-symington/web-engineering/assets/160561460/6d5e1af4-9443-4d93-b572-ef1d655a98b8)
+
 ![image](https://github.com/anna-symington/web-engineering/assets/160561460/7992794b-430c-4321-9cda-60dccac7f2f1)
