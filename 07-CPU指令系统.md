@@ -60,3 +60,4 @@
 
   你看，通过这样的方法，我们不就能够大大地提升我们的工作效率了吗？我们的工作产出比不就大大提升了吗？那么，这就是所谓的流水线技术。
   
+![image](https://github.com/anna-symington/web-engineering/assets/160561460/f47150cd-7a3c-48db-8714-84a35290edcd)
